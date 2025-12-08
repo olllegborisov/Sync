@@ -165,10 +165,11 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b04d43c90b30761",
+  "active": "51e6d235686428b3",
   "lastOpenFiles": [
     "База знаний/Obidian инфо/Интерфейс.md",
     "База знаний/Заметки ежедневные/Тестовая заметка.md",
