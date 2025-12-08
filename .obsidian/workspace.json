@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4bd16d03adad83",
+        "id": "62fb5e9c3a8514af",
         "type": "tabs",
         "children": [
           {
-            "id": "1f394fc202257615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Obidian инфо/00. Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00. Obsidian"
-            }
-          },
-          {
-            "id": "073d5d7212ffdfb8",
+            "id": "0336376d13744b26",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Канбан/Kanban — пример.md",
+                "file": "Канбан/Тестовый Канбан.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -39,81 +25,10 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Kanban — пример"
-            }
-          },
-          {
-            "id": "5cbec4acd9653e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Канбан/Вынести мусор @{2025-12-10}.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вынести мусор @{2025-12-10}"
-            }
-          },
-          {
-            "id": "0b95af48e0e1f0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Obidian инфо/Горячие клавиши.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Горячие клавиши"
-            }
-          },
-          {
-            "id": "bdf0087a99e098f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Obidian инфо/00. Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00. Obsidian"
-            }
-          },
-          {
-            "id": "b1b4a2a6277b709a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Obidian инфо/Плагины.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Плагины"
-            }
-          },
-          {
-            "id": "026b16bf515ebfc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Obidian инфо/Плагины.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Плагины"
+              "title": "Тестовый Канбан"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +41,16 @@
         "id": "bacd28370d691fcc",
         "type": "tabs",
         "children": [
+          {
+            "id": "93906a3e0f8bc4da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
           {
             "id": "5c5bc35443693523",
             "type": "leaf",
@@ -145,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: пла",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,22 +80,12 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
-          },
-          {
-            "id": "93906a3e0f8bc4da",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5
   },
   "right": {
     "id": "19b07e10315e5fd8",
@@ -181,12 +96,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ceb5ccbbb7c32ddb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
             "id": "4e3d7450760b5e1a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Канбан/Тестовый Канбан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,36 +126,27 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Тестовый Канбан"
             }
           },
           {
-            "id": "957487506a61452a",
+            "id": "91bbd7a8f8db0f29",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Без названия.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "ceb5ccbbb7c32ddb",
+            "id": "e9f7e79641583225",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -248,79 +169,85 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "База знаний/Obidian инфо/Плагины.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Плагины"
             }
           },
           {
-            "id": "91bbd7a8f8db0f29",
+            "id": "61f2b9e608d8956f",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "e9f7e79641583225",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
+      "switcher:Меню быстрого перехода": false,
+      "command-palette:Открыть палитру команд": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "026b16bf515ebfc8",
+  "active": "91bbd7a8f8db0f29",
   "lastOpenFiles": [
-    "База знаний/Obidian инфо/Advanced tables.md",
-    "База знаний/Obidian инфо/Плагины.md",
-    "База знаний/Obidian инфо/00. Obsidian.md",
-    "База знаний/Obidian инфо/Espanso.md",
-    "Канбан/00. Тестовый Канбан.md",
-    "База знаний/Obidian инфо/01. Checklist  — внести темы Obsidian.md",
-    "Канбан/Kanban — пример.md",
-    "Канбан/Второй раз вынести мусор.md",
-    "База знаний/Obidian инфо/Календарь.md",
     "База знаний/Не сортированное/Горячие клавиши windows.md",
+    "База знаний/Не сортированное/Блокнот.md",
+    "Канбан/Тестовый Канбан.md",
+    "База знаний/Работа/Блокнот.md",
+    "База знаний/Работа/234235.md",
+    "База знаний/Ежедневные заметки/2025-12-08.md",
+    "База знаний/Работа/Без названия",
+    "База знаний/Работа",
+    "Без названия",
+    "2025-12-08.md",
+    "База знаний/Ежедневные заметки",
+    "База знаний/Obidian инфо/Безымянная Kanban-доска.md",
+    "База знаний/Obidian инфо/Календарь.md",
+    "База знаний/Obidian инфо/Плагины.md",
+    "База знаний/Obidian инфо/Поиск.md",
+    "База знаний/Obidian инфо/00. Obsidian.md",
+    "Исходники/obsidian.png",
+    "Канбан/Второй раз вынести мусор.md",
+    "Безымянная Kanban-доска.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Шаблоны/Пример шаблона.md",
     "База знаний/Obidian инфо/Горячие клавиши.md",
-    "База знаний/Obidian инфо/Синхронизация устройств.md",
-    "База знаний/Obidian инфо/Интерфейс.md",
-    "База знаний/Obidian инфо/Канбан.md",
     "Канбан/Вынести мусор @{2025-12-10}.md",
-    "База знаний/Obidian инфо/Настройки Obsidian.md",
-    "База знаний/Obidian инфо/Markdown синтаксис.md",
+    "База знаний/Obidian инфо/ghgdg.md",
+    "База знаний/Obidian инфо/ghgd4234g.md",
+    "База знаний/Obidian инфо/dgfdg.md",
+    "База знаний/Obidian инфо/dfgfdgfdg.md",
+    "Канбан/Kanban — пример.md",
+    "База знаний/Obidian инфо/Templates.md",
+    "База знаний/Obidian инфо/Без названия.md",
+    "База знаний/Obidian инфо/dgdfgdf.md",
+    "База знаний/Obidian инфо/01. Checklist  — внести темы Obsidian.md",
+    "Шаблоны",
     "Канбан",
-    "База знаний/Obidian инфо/github.md",
     "База знаний/Obidian инфо/~syncthing~github.md.tmp",
-    "База знаний/Заметки ежедневные/Тестовая заметка.md",
-    "База знаний/Заметки ежедневные/Git token.md",
     "~syncthing~Без названия.md.tmp",
     "Исходники/Pasted image 20251204232647.png"
   ]
