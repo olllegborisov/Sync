@@ -11,21 +11,14 @@
             "id": "0336376d13744b26",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Канбан/Тестовый Канбан.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "База знаний/Ежедневные заметки/2025-12-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Тестовый Канбан"
+              "icon": "lucide-file",
+              "title": "2025-12-09"
             }
           }
         ]
@@ -81,7 +74,8 @@
               "title": "Поиск"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Канбан/Тестовый Канбан.md",
+                "file": "База знаний/Не сортированное/Блонкнот.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Тестовый Канбан"
+              "title": "Обратные ссылки для Блонкнот"
             }
           },
           {
@@ -145,8 +139,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -200,25 +194,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "command-palette:Открыть палитру команд": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Создать новую доску": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4e3d7450760b5e1a",
+  "active": "0336376d13744b26",
   "lastOpenFiles": [
+    "База знаний/Не сортированное/Блонкнот.md",
+    "База знаний/Не сортированное/Блокнот.md",
+    "База знаний/Не сортированное/~syncthing~Блонкнот.md.tmp",
+    "База знаний/Не сортированное/~syncthing~Блокнот.md.tmp",
+    "Канбан/Тестовый Канбан.md",
+    "База знаний/Ежедневные заметки/2025-12-09.sync-conflict-20251208-141430-3PFBW47.md",
+    "База знаний/Ежедневные заметки/~syncthing~2025-12-09.sync-conflict-20251208-141430-3PFBW47.md.tmp",
     "Шаблоны/Ежедневная заметка.md",
     "Шаблоны/Пример шаблона.md",
     "База знаний/Ежедневные заметки/2025-12-09.md",
     "База знаний/Ежедневные заметки/Без названия.md",
     "База знаний/Ежедневные заметки/2025-12-10.md",
     "Исходники/Картинки билет.pdf",
-    "Канбан/Тестовый Канбан.md",
     "База знаний/Не сортированное/Горячие клавиши windows.md",
-    "База знаний/Не сортированное/Блокнот.md",
     "База знаний/Работа/Блокнот.md",
     "База знаний/Работа/234235.md",
     "База знаний/Ежедневные заметки/2025-12-08.md",
@@ -244,12 +247,7 @@
     "База знаний/Obidian инфо/ghgdg.md",
     "База знаний/Obidian инфо/ghgd4234g.md",
     "База знаний/Obidian инфо/dgfdg.md",
-    "База знаний/Obidian инфо/dfgfdgfdg.md",
-    "Канбан/Kanban — пример.md",
     "Шаблоны",
-    "Канбан",
-    "База знаний/Obidian инфо/~syncthing~github.md.tmp",
-    "~syncthing~Без названия.md.tmp",
     "Исходники/Pasted image 20251204232647.png"
   ]
 }
