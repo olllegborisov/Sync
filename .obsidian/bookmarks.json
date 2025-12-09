@@ -13,7 +13,13 @@
     {
       "type": "group",
       "ctime": 1765202316305,
-      "items": [],
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1765310585919,
+          "path": "База знаний/Работа/Di-project/00. Di-project.md"
+        }
+      ],
       "title": "Работа"
     },
     {

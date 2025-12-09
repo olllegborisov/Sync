@@ -29,12 +29,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Obidian инфо/00. Obsidian.md",
-                "mode": "preview",
-                "source": false
+                "file": "База знаний/Ежедневные заметки/2025-12-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "00. Obsidian"
+              "title": "2025-12-09"
             }
           }
         ],
@@ -117,7 +127,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "a72b9f6f974c2314",
@@ -129,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Канбан/Тестовый Канбан.md",
+            "file": "База знаний/Obidian инфо/00. Obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,48 +196,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Создать новую доску": false,
       "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "774419f2ee7d285c",
   "lastOpenFiles": [
-    "База знаний/Obidian инфо/Синхронизация устройств.md",
-    "База знаний/Obidian инфо/00. Obsidian.md",
-    "База знаний/Obidian инфо/Плагины.md",
-    "База знаний/Ежедневные заметки/Без названия.md",
+    "Telegram/photos/photo_5501798574_0 - 20251209184040774.jpg",
+    "Telegram/Привет! - 20251209183807873.md",
     "База знаний/Ежедневные заметки/2025-12-09.md",
-    "База знаний/Obidian инфо/Особенности obsidian.md",
+    "База знаний/Obidian инфо/00. Obsidian.md",
     "База знаний/Obidian инфо/Интерфейс.md",
     "Исходники/Pasted image 20251204232647.png",
+    "База знаний/Obidian инфо/Markdown.md",
+    "Канбан/Тестовый Канбан.md",
+    "База знаний/Obidian инфо/01. Checklist  — внести темы Obsidian.md",
+    "База знаний/Не сортированное/Блонкнот.md",
+    "База знаний/Obidian инфо/Плагины.md",
+    "База знаний/Obidian инфо/Календарь.md",
+    "База знаний/Obidian инфо/Auto Link Title.md",
+    "База знаний/Obidian инфо/Force note view mode by front matter.md",
+    "База знаний/Obidian инфо/Обратные ссылки.md",
+    "База знаний/Obidian инфо/Markdown formatting assistant.md",
+    "База знаний/Obidian инфо/Структура заметок.md",
+    "База знаний/Obidian инфо/Синхронизация устройств.md",
+    "База знаний/Ежедневные заметки/Без названия.md",
+    "База знаний/Obidian инфо/Особенности obsidian.md",
     "База знаний/Obidian инфо/Templates.md",
     "База знаний/Obidian инфо/Markdown синтаксис.md",
-    "База знаний/Obidian инфо/Markdown.md",
     "База знаний/Obidian инфо/github.md",
     "База знаний/Obidian инфо/Канбан.md",
-    "База знаний/Obidian инфо/Календарь.md",
-    "База знаний/Obidian инфо/01. Checklist  — внести темы Obsidian.md",
     "База знаний/Obidian инфо/Поиск.md",
-    "Канбан/Тестовый Канбан.md",
-    "База знаний/Не сортированное/Блонкнот.md",
     "База знаний/Ежедневные заметки/2025-12-08.md",
     "Канбан/Kanban — пример.md",
-    "База знаний/Obidian инфо/Безымянная Kanban-доска.md",
-    "Канбан/Второй раз вынести мусор.md",
-    "Канбан/Вынести мусор @{2025-12-10}.md",
-    "База знаний/Не сортированное/Горячие клавиши windows.md",
     "Без названия.base",
-    "База знаний/Не сортированное/Блокнот.md",
-    "База знаний/Ежедневные заметки/2025-12-09.sync-conflict-20251208-141430-3PFBW47.md",
-    "База знаний/Ежедневные заметки/2025-12-10.md",
     "Исходники/Картинки билет.pdf",
     "Исходники/obsidian.png",
     "База знаний/Заметки ежедневные",

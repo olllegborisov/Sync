@@ -4,24 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "62fb5e9c3a8514af",
+        "id": "0750d52af0eb09cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0336376d13744b26",
+            "id": "cdce16a761c52d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Ежедневные заметки/2025-12-09.md",
+                "file": "База знаний/Работа/Di-project/Памятка.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-12-09"
+              "title": "Памятка"
+            }
+          },
+          {
+            "id": "86cd36ebdda94379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Работа/Di-project/Структура проекта.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Структура проекта"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily",
+                "query": "tag:#d-project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +174,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -184,70 +219,97 @@
               "icon": "links-going-out",
               "title": "Исходящие ссылки"
             }
+          },
+          {
+            "id": "43a3a5952b6e0b8d",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "7cf53c4b569de753",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "templates:Вставить шаблон": false,
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "command-palette:Открыть палитру команд": false,
       "daily-notes:Сегодняшняя заметка": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Создать новую доску": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0336376d13744b26",
+  "active": "91bbd7a8f8db0f29",
   "lastOpenFiles": [
-    "База знаний/Не сортированное/Блонкнот.md",
-    "База знаний/Не сортированное/Блокнот.md",
-    "База знаний/Не сортированное/~syncthing~Блонкнот.md.tmp",
-    "База знаний/Не сортированное/~syncthing~Блокнот.md.tmp",
+    "База знаний/Работа/Di-project/Памятка.md",
+    "База знаний/Работа/Di-project/00. Di-project.md",
+    "База знаний/Работа/Di-project/Структура проекта.md",
+    "База знаний/Работа/Di-project/Памятка TPI.md",
+    "База знаний/Работа/Di-project/Перед началом нового проекта.md",
+    "База знаний/Работа/Di-project/Проекты.md",
+    "База знаний/Работа/Di-project/Доступы.md",
+    "База знаний/Работа/Di-project/Вопросы по кодексу верстальщика.md",
+    "База знаний/Работа/Di-project/Важное.md",
     "Канбан/Тестовый Канбан.md",
-    "База знаний/Ежедневные заметки/2025-12-09.sync-conflict-20251208-141430-3PFBW47.md",
-    "База знаний/Ежедневные заметки/~syncthing~2025-12-09.sync-conflict-20251208-141430-3PFBW47.md.tmp",
-    "Шаблоны/Ежедневная заметка.md",
-    "Шаблоны/Пример шаблона.md",
-    "База знаний/Ежедневные заметки/2025-12-09.md",
-    "База знаний/Ежедневные заметки/Без названия.md",
-    "База знаний/Ежедневные заметки/2025-12-10.md",
-    "Исходники/Картинки билет.pdf",
-    "База знаний/Не сортированное/Горячие клавиши windows.md",
-    "База знаний/Работа/Блокнот.md",
-    "База знаний/Работа/234235.md",
-    "База знаний/Ежедневные заметки/2025-12-08.md",
-    "База знаний/Работа/Без названия",
-    "База знаний/Работа",
-    "Без названия",
-    "2025-12-08.md",
-    "База знаний/Ежедневные заметки",
-    "База знаний/Obidian инфо/Безымянная Kanban-доска.md",
-    "База знаний/Obidian инфо/Календарь.md",
-    "База знаний/Obidian инфо/Плагины.md",
-    "База знаний/Obidian инфо/Поиск.md",
-    "База знаний/Obidian инфо/00. Obsidian.md",
-    "Исходники/obsidian.png",
-    "Канбан/Второй раз вынести мусор.md",
-    "Безымянная Kanban-доска.md",
-    "Без названия.base",
+    "База знаний/Не сортированное/Блонкнот.md",
+    "База знаний/Работа/Di-project/Olisdress.md",
+    "База знаний/Работа/Di-project/IMG_0858.jpeg",
+    "База знаний/Работа/Di-project/germetic.md",
+    "База знаний/Работа/Di-project/Vuejs.org.md",
+    "База знаний/Работа/Di-project/Сайты.md",
+    "База знаний/Работа/Di-project/animationMuseum.md",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904154941.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904154743.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904154638.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904154443.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904154300.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904153916.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904153716.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904153346.png",
+    "База знаний/Работа/Di-project/images/Pasted image 20250904153326.png",
+    "База знаний/Работа/Di-project/Битрикс.md",
+    "Хранилище/Проекты мои.md",
+    "База знаний/Работа/Di-project/Проекты мои.md",
+    "База знаний/Работа/Di-project/ПК.md",
+    "База знаний/Работа/Di-project/мои доки.md",
+    "База знаний/Работа/Di-project/TechPromInvest.md",
+    "База знаний/Не сортированное/Главная.md",
+    "База знаний/Не сортированное/Home/Лечение/Здоровье.md",
+    "База знаний/Не сортированное/Home/Дом/дом.md",
+    "База знаний/Не сортированное/Home/Дом/Даты рождения.md",
+    "Хранилище",
+    "База знаний/Работа/Главная/Обучение/JavaScript/скрипты",
+    "База знаний/Работа/Главная/Обучение/JavaScript/images",
+    "База знаний/Работа/Главная/Обучение/Vue",
+    "База знаний/Работа/Главная/Обучение/JavaScript",
+    "База знаний/Работа/Главная/Обучение/English",
+    "База знаний/Работа/Главная/Обучение/4 Vite",
+    "База знаний/Работа/Главная/Обучение",
+    "База знаний/Работа/Главная/Верстка",
+    "База знаний/Работа/Главная/Telegram",
+    "База знаний/Работа/Главная/images 1/ListCards.canvas",
     "Без названия.canvas",
     "Без названия 2.canvas",
-    "Без названия 1.canvas",
-    "База знаний/Obidian инфо/Горячие клавиши.md",
-    "Канбан/Вынести мусор @{2025-12-10}.md",
-    "База знаний/Obidian инфо/ghgdg.md",
-    "База знаний/Obidian инфо/ghgd4234g.md",
-    "База знаний/Obidian инфо/dgfdg.md",
-    "Шаблоны",
-    "Исходники/Pasted image 20251204232647.png"
+    "Без названия 1.canvas"
   ]
 }

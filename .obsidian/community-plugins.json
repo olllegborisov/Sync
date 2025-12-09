@@ -3,5 +3,8 @@
   "obsidian-kanban",
   "calendar",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "table-editor-obsidian",
+  "telegram-sync"
 ]
