@@ -35,25 +35,268 @@
             "id": "86cd36ebdda94379",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Канбан/Канбан.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "База знаний/Obidian инфо/00. Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Канбан"
+              "icon": "lucide-file",
+              "title": "00. Obsidian"
+            }
+          },
+          {
+            "id": "995d6b0fe857c9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Синхронизация устройств.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Синхронизация устройств"
+            }
+          },
+          {
+            "id": "6dfc9cb1141b5a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Поиск.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "59c98cd8a2ecb012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Структура заметок.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Структура заметок"
+            }
+          },
+          {
+            "id": "8ac64a70c2c1d14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Особенности obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Особенности obsidian"
+            }
+          },
+          {
+            "id": "69093c470b610007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Настройки Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Настройки Obsidian"
+            }
+          },
+          {
+            "id": "10c9087400eb6ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Горячие клавиши.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Горячие клавиши"
+            }
+          },
+          {
+            "id": "e8796f37f0686390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Markdown.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Markdown"
+            }
+          },
+          {
+            "id": "6c67c0cf52507f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Плагины.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Плагины"
+            }
+          },
+          {
+            "id": "622f4fe1397924e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Obidian инфо/Интерфейс.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Интерфейс"
+            }
+          },
+          {
+            "id": "6c355295039df108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблоны/Пример шаблона.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Пример шаблона"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -95,7 +338,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#d-project",
+                "query": "tag:#obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +349,8 @@
               "title": "Поиск"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,13 +438,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний/Obidian инфо/Плагины.md",
+                "file": "Шаблоны/Пример шаблона.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Плагины"
+              "title": "Структура Пример шаблона"
             }
           },
           {
@@ -255,8 +499,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93906a3e0f8bc4da",
+  "active": "91bbd7a8f8db0f29",
   "lastOpenFiles": [
+    "Шаблоны/Ежедневная заметка.md",
+    "Шаблоны/Пример шаблона.md",
+    "База знаний/Obidian инфо/01. Checklist  — внести темы Obsidian.md",
+    "База знаний/Obidian инфо/Интерфейс.md",
+    "База знаний/Obidian инфо/Плагины.md",
+    "База знаний/Obidian инфо/Markdown.md",
+    "База знаний/Obidian инфо/Горячие клавиши.md",
+    "База знаний/Obidian инфо/Настройки Obsidian.md",
+    "База знаний/Obidian инфо/Особенности obsidian.md",
+    "База знаний/Obidian инфо/Структура заметок.md",
+    "База знаний/Obidian инфо/Поиск.md",
+    "База знаний/Obidian инфо/Синхронизация устройств.md",
+    "База знаний/Obidian инфо/00. Obsidian.md",
+    "База знаний/Ежедневные заметки/2025-12-10.md",
+    "Канбан/Канбан.md",
     "База знаний/Работа/Di-project/Структура проекта.md",
     "База знаний/Работа/Di-project/Памятка.md",
     "База знаний/Работа/Di-project/00. Di-project.md",
@@ -266,14 +525,9 @@
     "База знаний/Работа/Di-project/Доступы.md",
     "База знаний/Работа/Di-project/Вопросы по кодексу верстальщика.md",
     "База знаний/Работа/Di-project/Важное.md",
-    "Канбан/Канбан.md",
     "База знаний/Не сортированное/Блонкнот.md",
     "База знаний/Работа/Di-project/Olisdress.md",
     "База знаний/Работа/Di-project/IMG_0858.jpeg",
-    "База знаний/Работа/Di-project/germetic.md",
-    "База знаний/Работа/Di-project/Vuejs.org.md",
-    "База знаний/Работа/Di-project/Сайты.md",
-    "База знаний/Работа/Di-project/animationMuseum.md",
     "База знаний/Работа/Di-project/images/Pasted image 20250904154941.png",
     "База знаний/Работа/Di-project/images/Pasted image 20250904154743.png",
     "База знаний/Работа/Di-project/images/Pasted image 20250904154638.png",
@@ -283,16 +537,6 @@
     "База знаний/Работа/Di-project/images/Pasted image 20250904153716.png",
     "База знаний/Работа/Di-project/images/Pasted image 20250904153346.png",
     "База знаний/Работа/Di-project/images/Pasted image 20250904153326.png",
-    "База знаний/Работа/Di-project/Битрикс.md",
-    "Хранилище/Проекты мои.md",
-    "База знаний/Работа/Di-project/Проекты мои.md",
-    "База знаний/Работа/Di-project/ПК.md",
-    "База знаний/Работа/Di-project/мои доки.md",
-    "База знаний/Работа/Di-project/TechPromInvest.md",
-    "База знаний/Не сортированное/Главная.md",
-    "База знаний/Не сортированное/Home/Лечение/Здоровье.md",
-    "База знаний/Не сортированное/Home/Дом/дом.md",
-    "База знаний/Не сортированное/Home/Дом/Даты рождения.md",
     "Хранилище",
     "База знаний/Работа/Главная/Обучение/JavaScript/скрипты",
     "База знаний/Работа/Главная/Обучение/JavaScript/images",

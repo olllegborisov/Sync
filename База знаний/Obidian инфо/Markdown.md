@@ -1,5 +1,3 @@
-Hab Obsidian: [[00. Obsidian]]
-
  #obsidian 
 
 
@@ -30,3 +28,9 @@ Markdown — в Обсидиан используется легки язык р
 **Жирный текст** 
 <font style="color: blue">Синий текст</font>
 Gpt говорит лучше не использовать html так как они плохо импортируются
+
+
+
+---
+
+[[00. Obsidian|Hab Obsidian]]
