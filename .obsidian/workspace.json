@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f35b20f705dd07",
+        "id": "f5595ce17209c2fe",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0db295930ee9ef",
+            "id": "9d2689b0f02e9b88",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/table-editor-obsidian/data.json",
-                "bFile": ".obsidian/plugins/table-editor-obsidian/data.json",
+                "aFile": "База знаний/Работа/Di-project/00. Di-project.md",
+                "bFile": "База знаний/Работа/Di-project/00. Di-project.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: 00. Di-project"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Поиск"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,20 +224,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f0db295930ee9ef",
+  "active": "91bbd7a8f8db0f29",
   "lastOpenFiles": [
-    "База знаний/Ежедневные заметки/2025-12-11.md",
+    "База знаний/Развитие/Obidian инфо/01. Checklist  — внести темы Obsidian.md",
+    "База знаний/Развитие/Obidian инфо/00. Obsidian.md",
+    "База знаний/Работа/Di-project/00. Di-project.md",
+    "База знаний/Работа/Di-project/Доступы.md",
     "Telegram/Телеграм Лента.md",
+    "База знаний/Ежедневные заметки/2025-12-11.md",
     "Новый текстовый документ.txt",
     "База знаний/Развитие/Obidian инфо/github.md",
     "База знаний/Развитие/Obidian инфо/Синхронизация устройств.md",
-    "База знаний/Развитие/Obidian инфо/00. Obsidian.md",
     "База знаний/Развитие/Obidian инфо/Плагины.md",
-    "База знаний/Работа/Di-project/00. Di-project.md",
     "Канбан/Канбан.md",
     "База знаний/Работа/Блокнот по работе.md",
     "База знаний/Работа/Di-project/Литех.md",
-    "База знаний/Работа/Di-project/Доступы.md",
     "Telegram/Привет - 20251209193435405.md",
     "Telegram/123 - 20251209193501523.md",
     "Шаблоны/Ежедневная заметка.md",
