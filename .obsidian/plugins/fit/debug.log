@@ -4,3 +4,9 @@
   "remoteShaCount": 0,
   "lastCommit": null
 }
+[2025-12-11T14:58:16.847Z] [Fit] SHA caches loaded from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 0,
+  "remoteShaCount": 0,
+  "lastCommit": null
+}

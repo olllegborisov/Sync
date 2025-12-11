@@ -11,24 +11,14 @@
             "id": "6f0db295930ee9ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Telegram/Телеграм Лента.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/plugins/table-editor-obsidian/data.json",
+                "bFile": ".obsidian/plugins/table-editor-obsidian/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Телеграм Лента"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -85,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -224,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "fit:Sync to GitHub": false,
       "switcher:Меню быстрого перехода": false,
       "command-palette:Открыть палитру команд": false,
       "daily-notes:Сегодняшняя заметка": false,
@@ -234,8 +225,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91bbd7a8f8db0f29",
+  "active": "6f0db295930ee9ef",
   "lastOpenFiles": [
+    "База знаний/Ежедневные заметки/2025-12-11.md",
+    "Telegram/Телеграм Лента.md",
     "Новый текстовый документ.txt",
     "База знаний/Развитие/Obidian инфо/github.md",
     "База знаний/Развитие/Obidian инфо/Синхронизация устройств.md",
@@ -243,8 +236,6 @@
     "База знаний/Развитие/Obidian инфо/Плагины.md",
     "База знаний/Работа/Di-project/00. Di-project.md",
     "Канбан/Канбан.md",
-    "База знаний/Ежедневные заметки/2025-12-11.md",
-    "Telegram/Телеграм Лента.md",
     "База знаний/Работа/Блокнот по работе.md",
     "База знаний/Работа/Di-project/Литех.md",
     "База знаний/Работа/Di-project/Доступы.md",
@@ -281,7 +272,6 @@
     "База знаний/Работа/Главная/Обучение/Vue",
     "База знаний/Работа/Главная/Обучение/JavaScript",
     "База знаний/Работа/Главная/Обучение/English",
-    "База знаний/Работа/Главная/Обучение/4 Vite",
     "База знаний/Работа/Главная/images 1/ListCards.canvas",
     "Без названия.canvas",
     "Без названия 2.canvas",
