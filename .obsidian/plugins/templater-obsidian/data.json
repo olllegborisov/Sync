@@ -17,6 +17,10 @@
     {
       "folder": "База знаний/Obidian инфо",
       "template": "Шаблоны/Пример шаблона.md"
+    },
+    {
+      "folder": "База знаний/Работа/Di-project",
+      "template": "Шаблоны/Шаблон Di-project.md"
     }
   ],
   "enable_file_templates": false,
